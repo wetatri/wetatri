@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wetatri
 - 👀 I’m interested in data analysis, data utilities and sql automation
 - 🌱 I’m currently learning rust and go programming
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ... definitely not on any social media
 
 <!---
